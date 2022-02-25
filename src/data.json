@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "task": "Code a To-Do list",
+  "complete": true
+},
+
+{
+  "id": 2,
+  "task": "Go to the store",
+  "complete": true
+},
+
+{
+  "id": 3,
+  "task": "Dont loose mind",
+  "complete": false
+},
+
+{
+  "id": 4,
+  "task": "Take Skadi out",
+  "complete": true
+},
+{
+  "id": 5,
+  "task": "Fold laundry",
+  "complete": true
+}
+
+
+
+
+
+
+
+]
